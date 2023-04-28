@@ -7,4 +7,8 @@ public class HomePage {
     // just writing something
 
     // adding one more thing
+
+    // add more thing
+
+    // footer
 }
